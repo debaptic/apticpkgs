@@ -1,3 +1,3 @@
-!(media/apticpkgs.png)[Apticpkgs Logo]
+![Apticpkgs](media/apticpkgs.png)
 
 Aptic Package Repository.
